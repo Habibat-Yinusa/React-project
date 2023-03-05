@@ -12,7 +12,7 @@ function Main() {
                 <p className='text-lg sm:text-3xl md:text-3xl font-bold py-3'>Fast flexible financing for </p>
                 <Typed className='text-2xl sm:text-4xl md:text-3xl font-bold md:pl-4 pl-2' strings={[ 'HTML', 'CSS', 'SASS']} typeSpeed={120} backSpeed={140} loop/>
             </div>
-            <p className='pt-2 md:text-xl text-xl text-gray-500'>Monitor your data analytics to increase revenue for BTB, BTC $ SASS platforms</p>
+            <p className='pt-2 md:text-xl text-xl text-gray-500'>Monitor your data analytics to increase revenue for HTML, CSS $ SASS platforms</p>
             {/* <button className='bg-[#eb8715] rounded-md mx-auto text-[#010831] p-4 w-[200px] my-6 font-bold hover:opacity-80'>Get Started</button> */}
           <Button name='Get Started' bgColor='bg-[#eb8715]' textColor='text-[#010831]'/>
         </div>
