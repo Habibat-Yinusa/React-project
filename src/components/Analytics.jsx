@@ -13,8 +13,8 @@ function Analytics() {
             {/* <img src={undraw_content_team_re_6rlg} alt="/" /> */}
             <div className='mx-auto'>
                 <p className='text-[#eb8715] sm:text-[18px] text-xl my-2 font-medium '>DATA ANALYTICS DASHBOARD</p>
-                <h1 className='capitalize sm:text-xl text-2xl my-2 md:text-4xl font-bold'>manage data analytics centrally</h1>
-                <p>
+                <h1 className='capitalize sm:text-xl text-2xl my-2 md:text-4xl font-bold text-[#010831]'>manage data analytics centrally</h1>
+                <p className='text-[#010831]'>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                     Voluptatem quasi nemo rerum quaerat voluptates molestias
                     ipsum iure quo cupiditate qui expedita, ab ea! Nostrum 
